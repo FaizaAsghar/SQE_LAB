@@ -3,8 +3,8 @@ public class Main{
 		Mammal lion = new Mammal("Lion","Roar");
 		Bird parrot = new Bird("Parrot","Squawk");
 
-		// lion.display();
-		// parrot.display();
+		lion.display();
+		parrot.display();
 
 		Animal[] animals = {
 			lion,
